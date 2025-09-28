@@ -2,17 +2,3 @@ fastapi
 uvicorn
 jinja2
 python-multipart
-pandas
-polars # For potentially faster data processing
-openpyxl # For Excel files
-python-dotenv # For managing API keys securely
-langchain # For RAG and agents
-langchain-groq # For Groq LLM
-langchain-google-genai # For Google Generative AI (Gemini)
-chromadb # Or another vector store like FAISS
-tiktoken # For token counting (useful with LLMs)
-matplotlib
-seaborn
-plotly # For interactive visualizations
-scikit-learn # For some data quality checks (e.g., outlier detection)
-unstructured[all-docs] # For robust document parsing
